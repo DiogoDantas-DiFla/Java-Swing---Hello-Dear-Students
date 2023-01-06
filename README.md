@@ -6,6 +6,3 @@ This repository is a "Project Challenge" of the bootcamp "Orange Tech + | BackEn
 - JDK 8+ (I'm using JDK 17)
 - IDE for Java development (I'm using IntelliJ IDEA Community Edition version 2022.3.1)
 - Know the basic syntax of Java and Swing GUI
-
-## Contributing
-This repository was created for study purposes, so please contribute to it.
